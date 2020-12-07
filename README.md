@@ -1,10 +1,8 @@
 # BCMA: Bayesian Causal Mediation Analysis with Latent Mediators and Survival Outcome
 
 This page illustartes a simulation on Bayesian causal mediation analysis with latent mediators and a survival outcome. The methodology and real data application to [ADNI](http://adni.loni.usc.edu/) data can be found in the original paper:
-[#](https://).
+[to be updated](https://).
 
-
-The proposed BCMA procedure
 
 ## Usage
 
