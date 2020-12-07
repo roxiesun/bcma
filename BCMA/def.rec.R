@@ -20,3 +20,4 @@ q.psd <- array(0, dim = c(rep_num, n.psd*2))
 q.gam <- array(0, dim = c(rep_num, n.gam*2))
 q.lam0 <- array(0, dim = c(rep_num, G*2))
 q.med <- array(0, dim = c(rep_num, n.med*2))
+
